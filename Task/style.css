@@ -1,0 +1,124 @@
+.hero{
+    
+    background-color: rgba(254,196,72,0.1);
+    width: 100%;
+}
+.header{
+    max-width: 100%;
+    margin-top: 48px;
+    max-width: 1236px;
+    margin: 0 auto;
+    margin-top: 100px;
+}
+.navbar{
+    background-color: transparent !important;
+    max-width: 1236px;
+    margin: 0 auto;
+}
+.text{
+    font-family: 'Jost', sans-serif;
+}
+.text h6{
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    font-weight: 600;
+    margin: 0 0 30px;
+}
+.text h1{
+    font-size: 60px;
+    font-weight: 600;
+    margin: 0 0 35px;
+}
+.text h1 u{
+    text-decoration: 0;
+    border-bottom: 2px solid #FEC448;
+}
+.text p{
+    font-size: 20px;
+    font-weight: 100;
+}
+.text h2{
+    font-size: 40px;
+    font-weight: 800;
+    margin: 0 0 35px;
+}
+.orange-btn{
+    background-color: #FF651C;
+    color: white;
+    padding: 8px 20px;
+    border: 0;
+    border-radius: 0;
+    box-shadow: 6px 6px 0 -1px #373737;
+    font-family: 'Jost', sans-serif;
+    font-size: 14px;
+    font-weight: 800;
+}
+.orange-btn:hover{
+    background-color: #373737;
+    box-shadow: 6px 6px 0 -1px #FF651C;
+}
+.home-banner{
+    width: 100%;
+}
+li{
+    padding: 0 10px;
+}
+.nav-link{
+    font-family: 'jost', sans-serif;
+    font-size: 14px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 3px;
+    color: #373737 !important;
+}
+.nav-link:hover{
+    color: #FF651C!important;
+}
+.work .container{
+    margin: auto;
+    max-width: 1236px;
+}
+.work{
+    background-color: #555555;
+    width: 100%;
+    padding: 50px 0;
+}
+.btn-skill{
+    width: 100%;
+    margin-bottom: 20px;
+    height: 80px;
+    font-size: 20px;
+    font-weight: 500;
+}
+.btn-skill:hover{
+    box-shadow: 3px 3px 0 -1px #2e2e2e;
+}
+.html-btn{
+    background-color: #9BD3D0;
+}
+.css-btn{
+    background-color: #FEC447;
+}
+.react-btn{
+    background-color: #FECCB5;
+}
+.ang-btn{
+    background-color: #92B5FF;
+}
+.ios-btn{
+    background-color: #C4D39B;
+}
+.app-btn{
+    background-color: #D2CEFF;
+}
+button i{
+    padding: 10px;
+    background-color: #ffffff;
+    margin-left: 10px;
+    margin-right: 10px;
+    font-size: 20px;
+    border: 2px solid #272727;
+}
+.left{
+    float: left;
+}
